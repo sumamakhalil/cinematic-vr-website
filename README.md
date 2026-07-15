@@ -66,31 +66,7 @@ Key architectural principles include:
 - Linear interpolation (LERP) for smooth transitions
 - Responsive layout with sticky scrolling sections
 
-## Project Structure
 
-```text
-Cinematic-VR-Website
-│
-├── assets/
-│   ├── dashboard.png
-│   └── architecture.png
-│
-├── images/
-│   ├── Hero Frame Sequence (90 Frames)
-│   └── VR Rotation Sequence (90 Frames)
-│
-├── css/
-│   └── style.css
-│
-├── js/
-│   └── script.js
-│
-├── videos/
-│   └── Background CTA Video
-│
-├── index.html
-└── README.md
-```
 
 ## Tech Stack
 
