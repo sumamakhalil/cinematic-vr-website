@@ -45,7 +45,7 @@ The project was built completely from scratch without animation libraries or fro
 
 ## Screenshots
 
-### Dashboard
+### Hero Section
 
 ![HeroSection](assets/herosection.png)
 
